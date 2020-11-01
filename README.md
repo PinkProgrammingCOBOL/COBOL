@@ -1,2 +1,2 @@
-Open COBOL exercise
+Open the file COBOL exercise :) 
 
