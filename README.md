@@ -1,2 +1,2 @@
-# COBOL
+Open COBOL exercise
 
