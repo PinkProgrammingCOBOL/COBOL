@@ -1,5 +1,5 @@
 Open the file COBOL exercise :) 
 
 
-Go to:
+Open in new tab:
 https://www.jdoodle.com/execute-cobol-online/
